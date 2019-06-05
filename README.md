@@ -118,7 +118,7 @@ The target period is 2015-2019.
 - **Proofs of Space**
 
 ### EuroCrypt
-*CFP: October 2019 (Expectated)*
+*CFP: October 2019 (Expected)*
 ###### 2019
 - **Multi-Party Virtual State Channels**
 - **Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble**
@@ -134,7 +134,7 @@ The target period is 2015-2019.
 - **The Bitcoin Backbone Protocol: Analysis and Applications**
 
 ### AsiaCrypt
-*CFP: May 2020 (Expectated)*
+*CFP: May 2020 (Expected)*
 ###### 2019
 - Not Announced Yet (Written in June, 2019)
 ###### 2018
