@@ -17,13 +17,13 @@ Target period is 2015-2019.
 
 ### IEEE Symposium on Security and Privacy
 *CFP: Every month*
-###### This is a H6
+###### 2019
 - **Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?**, Yujin Kwon et al. [[pdf]](https://arxiv.org/pdf/1902.11064.pdf)
 - **Redactable Blockchain in the Permissionless Setting**
 - **Proof-of-Stake Sidechains**
 - **Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake**
 - **Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security**
-- 2018
+###### 2018
 - **Doubly-efficient zkSNARKs without trusted setup**
 #####2017
 - **Hijacking Bitcoin: Routing Attacks on Cryptocurrencies**
