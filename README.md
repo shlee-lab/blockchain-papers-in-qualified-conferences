@@ -2,7 +2,7 @@
 
 This space collects almost papers about security analysis of blockchain in qualified conferences.
 
-Target period is 2015-2019.
+The target period is 2015-2019.
 
 ## Contents
 
@@ -61,7 +61,7 @@ Target period is 2015-2019.
 ### ACM CCS
 *CFP: August 30, 2019 - September 13, 2019*
 ###### 2019
-- **Not Announced Yet (Written in June, 2019)**
+- Not Announced Yet (Written in June, 2019)
 ###### 2018
 - **A better method to analyze blockchain consistency**
 - **Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability**
@@ -103,7 +103,7 @@ Target period is 2015-2019.
 ### Crypto
 *CFP: Febrary 2020 (Expected)*
 ###### 2019
-- **Not Announced Yet**
+- Not Announced Yet (Written in June, 2019)
 ###### 2018
 - **Proofs of Work From Worst-Case Assumptions**
 ###### 2017
@@ -136,7 +136,7 @@ Target period is 2015-2019.
 ### AsiaCrypt
 *CFP: May 2020 (Expectated)*
 ###### 2019
-- **Not Announced Yet**
+- Not Announced Yet (Written in June, 2019)
 ###### 2018
 - **Compact Multi-Signatures for Smaller Blockchains**
 - **Security of the Blockchain against Long Delay Attack**
