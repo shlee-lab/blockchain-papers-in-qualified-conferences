@@ -1,6 +1,6 @@
 # blockchain-papers-in-qualified-conferences
 
-This space collects almost papers about analysis of blockchain in qualified conferences.
+This space collects almost papers about security analysis of blockchain in qualified conferences.
 
 Target period is 2015-2019.
 
@@ -8,11 +8,11 @@ Target period is 2015-2019.
 
 * [IEEE S&P](#IEEE-Symposium-on-Security-and-Privacy)
 * [NDSS](#NDSS-Symposium)
-* [ACM CCS](#2018-papers) : Proceeding
-* [USENIX](#2017-papers)
-* [Crypto](#2015-6-papers)
-* [Eurocrypt](#security-sci(e)-journal-list)
-* [AsiaCrypt](#links--tutorials)
+* [ACM CCS](#ACM-CCS)
+* [USENIX](#USENIX)
+* [Crypto](#Crypto)
+* [EuroCrypt](#EuroCrypt)
+* [AsiaCrypt](#AsiaCrypt)
 * * *
 
 ### IEEE Symposium on Security and Privacy
@@ -58,34 +58,93 @@ Target period is 2015-2019.
 ###### 2015
 - **-**
 
-### NDSS Symposium
+### ACM CCS
 *CFP: August 30, 2019 - September 13, 2019*
 ###### 2019
+- **Not Announced Yet (Written in June, 2019)**
 ###### 2018
+- **A better method to analyze blockchain consistency**
+- **Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability**
+- **RapidChain: Fast Blockchain Consensus via Full Sharding**
+- **BitML: a calculus for Bitcoin smart contracts**
 ###### 2017
+- **Be Selfish and Avoid Dilemmas: Fork After Withholding (FAW) Attacks on Bitcoin**
+- **Revive: Rebalancing Off-Blockchain Payment Networks**
+- **Practical UC-Secure Delegatable Credentials with Attributes and Their Application to Blockchain**
 ###### 2016
+- **On the instability of Bitcoin without the block reward**
+- **A Secure Sharding Protocol For Open Blockchains**
+- **On the Security and Performance of Proof of Work Blockchains**
 ###### 2015
+- **How to Use Bitcoin to Play Decentralized Poker**
+- **Micropayments for Decentralized Currencies**
+- **Liar, Liar, Coins on Fire!: Penalizing Equivocation By Loss of Bitcoins**
+- **Traitor Deterring Schemes: Using Bitcoin as Collateral for Digital Content**
 
-### NDSS Symposium
-*CFP: August 30, 2019 - September 13, 2019*
+### USENIX
+*CFP: Fall Quater (November 15, 2019), Winter Quater (Febrary 15, 2020)*
 ###### 2019
+- **FastKitten: Practical Smart Contracts on Bitcoin**
+- **BITE: Bitcoin Lightweight Client Privacy using Trusted Execution**
 ###### 2018
+- **teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts**
+- **An Empirical Analysis of Anonymity in Zcash**
+- **DIZK: A Distributed Zero Knowledge Proof System**
+- **Erays: Reverse Engineering Ethereum's Opaque Smart Contracts**
 ###### 2017
+- **SmartPool: Practical Decentralized Pooled Mining**
+- **REM: Resource-Efficient Mining for Blockchains**
 ###### 2016
+- **Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing**
+- **Blockstack: A Global Naming and Storage System Secured by Blockchains**
 ###### 2015
+- **Eclipse Attacks on Bitcoin’s Peer-to-Peer Network**
 
-### NDSS Symposium
-*CFP: August 30, 2019 - September 13, 2019*
+### Crypto
+*CFP: Febrary 2020 (Expected)*
 ###### 2019
+- **Not Announced Yet"
 ###### 2018
+- **Proofs of Work From Worst-Case Assumptions**
 ###### 2017
+- **The Bitcoin Backbone Protocol with Chains of Variable Difficulty**
+- **Bitcoin as a Transaction Ledger: A Composable Treatment**
+- **Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol**
+- **Time-Memory Tradeoff Attacks on the MTP Proof-of-Work Scheme**
 ###### 2016
+- **-**
 ###### 2015
+- **PoW-Based Distributed Cryptography with no Trusted Setup**
+- **Proofs of Space**
 
-### NDSS Symposium
-*CFP: August 30, 2019 - September 13, 2019*
+### EuroCrypt
+*CFP: October 2019 (Expectated)*
 ###### 2019
+- **Multi-Party Virtual State Channels**
+- **Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble**
+- **Proof-of-Stake Protocols for Privacy-Aware Blockchains**
+- **Consensus through Herding**    
 ###### 2018
+- **Thunderella: Blockchains with Optimistic Instant Confirmation**
 ###### 2017
+- **Analysis of the Blockchain Protocol in Asynchronous Networks**
 ###### 2016
+- **On the Complexity of Scrypt and Proofs of Space in the Parallel Random Oracle Model**
 ###### 2015
+- **The Bitcoin Backbone Protocol: Analysis and Applications**
+
+### AsiaCrypt
+*CFP: May 2020 (Expectated)*
+###### 2019
+- **Not Announced Yet**
+###### 2018
+- **Compact Multi-Signatures for Smaller Blockchains**
+- **Security of the Blockchain against Long Delay Attack**
+###### 2017
+- **Beyond Hellman's Time-Memory Trade-Offs with Applications to Proofs of Space**
+- **The Sleepy Model of Consensus**
+- **Instantaneous Decentralized Poker**
+###### 2016
+- **Indistinguishable Proofs of Work or Knowledge**
+###### 2015
+- **-**
