@@ -17,21 +17,21 @@ Target period is 2015-2019.
 
 ### IEEE Symposium on Security and Privacy
 *CFP: Every month*
-*2019*
+#####2019
 - **Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?**, Yujin Kwon et al. [[pdf]](https://arxiv.org/pdf/1902.11064.pdf)
 - **Redactable Blockchain in the Permissionless Setting**
 - **Proof-of-Stake Sidechains**
 - **Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake**
 - **Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security**
-*2018*
+#####2018
 - **Doubly-efficient zkSNARKs without trusted setup**
-*2017*
+#####2017
 - **Hijacking Bitcoin: Routing Attacks on Cryptocurrencies**
 - **Catena: Efficient Non-equivocation via Bitcoin**
 - **IKP: Turning a PKI Around with Decentralized Automated Incentives**
-*2016*
+#####2016
 - **Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts**
-*2015*
+#####2015
 - **SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies**
 - **Bitcoin over Tor isn't a Good Idea**
 - **The Miner's Dilemma**
