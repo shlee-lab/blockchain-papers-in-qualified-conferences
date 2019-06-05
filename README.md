@@ -103,7 +103,7 @@ Target period is 2015-2019.
 ### Crypto
 *CFP: Febrary 2020 (Expected)*
 ###### 2019
-- **Not Announced Yet"
+- **Not Announced Yet**
 ###### 2018
 - **Proofs of Work From Worst-Case Assumptions**
 ###### 2017
