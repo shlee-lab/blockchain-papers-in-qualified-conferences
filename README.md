@@ -2,7 +2,7 @@
 
 This space shows paper lists about security analysis of blockchain in seven qualified conferences.
 
-Some papers can be omitted though they are related with the blockchain analysis by my fault.
+Some papers can be omitted by my fault.
 
 The target period is 2015-2019.
 
