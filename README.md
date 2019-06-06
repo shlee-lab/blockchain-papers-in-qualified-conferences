@@ -1,8 +1,8 @@
 # blockchain-papers-in-qualified-conferences
 
-This space collects almost paper information about security analysis of blockchain in seven qualified conferences.
+This space shows paper lists about security analysis of blockchain in seven qualified conferences.
 
-Some papers can be omitted though they are related with the blockchain analysis since it is not an official or objective collection.
+Some papers can be omitted though they are related with the blockchain analysis by my fault.
 
 The target period is 2015-2019.
 
