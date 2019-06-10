@@ -1,6 +1,6 @@
 # blockchain-papers-in-qualified-conferences
 
-This space shows paper lists about security analysis of blockchain in seven qualified conferences.
+This space shows a paper list of security analysis of blockchain in seven qualified conferences.
 
 Some papers can be omitted by my fault.
 
