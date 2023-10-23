@@ -1,12 +1,18 @@
 # The Paper List of Blockchain Security Analysis
 
-This space shows a paper list of security analysis of blockchain in seven qualified conferences.
+This space shows a paper list of security analyses of blockchain in seven qualified conferences.
 
-Some papers can be omitted by my fault.
 
-The target period is 2015-2019.
+## Blockchain Conference
 
-## Contents
+* [Financial Cryptography (FC)]
+* [ACM Advances on Financial Technologies (AFT)]
+* [ACM EC]
+* [Tokenomics]
+* [IEEE ICBC]
+* [Cryptovalley]
+
+## Security Conference
 
 * [IEEE S&P](#IEEE-Symposium-on-Security-and-Privacy)
 * [NDSS](#NDSS-Symposium)
@@ -15,6 +21,12 @@ The target period is 2015-2019.
 * [Crypto](#Crypto)
 * [EuroCrypt](#EuroCrypt)
 * [AsiaCrypt](#AsiaCrypt)
+
+## Distributed Computing Conference
+
+* PODC
+
+
 * * *
 
 ### IEEE Symposium on Security and Privacy
